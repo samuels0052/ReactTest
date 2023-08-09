@@ -1,0 +1,2 @@
+:root{--main-bg-color:#000;--secondary-bg-color:red;--main-font-size:25px;--page-small-height:80vh;--page-standard-height:100vh}.navbar-toggler{height:5vh;width:5vh}i,nav span{color:#000;font-size:25px;font-size:var(--main-font-size);font-weight:700}#navbar-wrapper{height:11vh;padding:1rem}#navbar-wrapper,.navbar-collapse{background-color:red;background-color:var(--secondary-bg-color)}.navbar-collapse{padding:0 1em}#page1{height:80vh;height:var(--page-small-height)}#page2{height:100vh;height:var(--page-standard-height)}
+/*# sourceMappingURL=main.201528c2.css.map*/
