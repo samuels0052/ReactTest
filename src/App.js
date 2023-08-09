@@ -1,10 +1,14 @@
 import './App.css';
+import Button from './components/Button';
 
 function App() {
   return (
-    <h1 className="text-center">
-      Hello
-    </h1>
+    <div className="text-center">
+      <h1>
+        Hello
+      </h1>
+      <Button />
+    </div>
   );
 }
 
